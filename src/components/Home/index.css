@@ -1,0 +1,77 @@
+.home-container {
+  padding: 20px;
+}
+.home-page-items-lg-container {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.icon1 {
+  margin: 10px;
+}
+.facebook-logo-img {
+  height: 25px;
+  margin: 10px;
+}
+.home-lg-left-container {
+  width: 20%;
+}
+.home-page-second-container {
+  display: flex;
+}
+.home-lg-mini-right-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  padding: 20px;
+  background-size: cover;
+  height: 200px;
+  width: 100%;
+}
+.home-lg-right-container {
+  width: 80%;
+  align-self: flex-start;
+}
+.cancel-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.search-container {
+  display: flex;
+  align-items: center;
+  margin: 25px;
+}
+.searchEl {
+  padding: 5px;
+  width: 40%;
+}
+.search-icon {
+  margin: 4px;
+}
+.vedioListContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.LinkHomeE {
+  text-decoration: none;
+}
+.Retry-btn {
+  color: white;
+  border-radius: 8px;
+  background-color: #00306e;
+  padding: 10px;
+}
+.noResultContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.no-res-img {
+  height: 200px;
+}
+.search-btn {
+  background-color: transparent;
+  border: none;
+}

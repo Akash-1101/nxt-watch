@@ -1,0 +1,22 @@
+.thumnail-img {
+  height: 150px;
+  margin: 10px;
+}
+.thumbnail-below-container {
+  display: flex;
+}
+.profile-img {
+  height: 40px;
+  margin: 10px;
+}
+.views-contaiiner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.vedio-item-container {
+  width: 25%;
+  margin: 40px;
+  list-style: none;
+}

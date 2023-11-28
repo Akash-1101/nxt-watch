@@ -1,0 +1,44 @@
+.home-page-logo {
+  height: 40px;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  text-decoration: none;
+  width: 90%;
+}
+.header-Items-lg-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 7%;
+}
+.theme-container {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  align-items: center;
+}
+.profile-img1 {
+  height: 23px;
+}
+#b {
+  font-size: 18px;
+}
+.logOutBtn {
+  color: #3b82f6;
+  text-decoration: none;
+  border-radius: 8px;
+  border: 1px solid #3b82f6;
+  padding: 5px;
+  width: 100px;
+  margin-left: 10px;
+  background-color: white;
+}
+.header-main-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,86 @@
+.home-container {
+  padding: 20px;
+}
+.home-page-items-lg-container {
+  display: flex;
+  align-items: center;
+}
+.icon1 {
+  margin: 10px;
+}
+.facebook-logo-img {
+  height: 25px;
+  margin: 10px;
+}
+.home-lg-left-container {
+  width: 20%;
+}
+.home-page-second-container {
+  display: flex;
+}
+.trending-lg-mini-right-container {
+  padding: 20px;
+  background-color: #e2e8f0;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-lg-right-container {
+  width: 80%;
+  align-self: flex-start;
+}
+.cancel-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.search-container {
+  display: flex;
+  align-items: center;
+  margin: 25px;
+}
+.searchEl {
+  padding: 5px;
+  width: 40%;
+}
+.search-icon {
+  margin: 4px;
+}
+.vedioListContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.LinkHomeE {
+  text-decoration: none;
+}
+.Retry-btn {
+  color: white;
+  border-radius: 8px;
+  background-color: #00306e;
+  padding: 10px;
+}
+.noResultContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.no-res-img {
+  height: 200px;
+}
+.search-btn {
+  background-color: transparent;
+  border: none;
+}
+.icon2 {
+  margin: 20px;
+  background-color: #cbd5e1;
+  border-radius: 30px;
+  width: 50px;
+  height: 50px;
+  padding: 13px;
+  color: rgb(250, 64, 27);
+}
